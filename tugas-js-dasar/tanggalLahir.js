@@ -8,7 +8,7 @@ let namaBulan;
 
 switch (bulan) {
     case 1:
-        namaBulanulan = "Januari";
+        namaBulan = "Januari";
         break;
     case 2:
         namaBulan = "Febuary";
